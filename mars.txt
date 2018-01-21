@@ -1,0 +1,7 @@
+Test test test
+This line was just added to this document.
+This is the final line in this txt
+This line is added to partner b's copy.
+This line is added to Partner A's copy
+Changed again by person A
+hello world!
